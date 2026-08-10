@@ -2,3 +2,31 @@
     background-color: #0066cc;
 
 }
+
+.theme-orange-btn{
+    background-color: #ff6600;
+    color: white;
+}
+.theme-orange-btn:hover{
+    background-color: #ff6600;
+    opacity: 0.9;
+    color: white;
+}
+
+.theme-green-btn{
+    background-color: #28A745;
+    color: white;
+}
+.theme-green-btn:hover{
+    background-color: #28A745;
+    opacity: 0.9;
+    color: white;
+}
+.theme-footer{
+    background-color: #0066cc;
+    color: white;
+}
+
+body{
+    font-family: 'Lato', sans-serif;
+}
