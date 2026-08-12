@@ -2,6 +2,10 @@
     background-color: #0066cc;
 
 }
+.theme-navbar-light{
+background-color: #add1f5;
+}
+
 
 .theme-orange-btn{
     background-color: #ff6600;
@@ -29,4 +33,9 @@
 
 body{
     font-family: 'Lato', sans-serif;
+}
+
+
+.theme-product img:hover{
+transform: scaleX(-1);
 }
