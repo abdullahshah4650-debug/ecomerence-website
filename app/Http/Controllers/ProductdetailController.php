@@ -8,4 +8,4 @@ class ProductdetailController extends Controller
     {
         return view('productdetail');
     }
-}
+    }
