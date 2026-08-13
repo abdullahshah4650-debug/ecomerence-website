@@ -213,7 +213,7 @@
 <div class="container">
     
 <div class="d-flex">
-  <div class="flex-grow-1"><h2>Best Of Electronics</h2></div>
+  <div class="flex-grow-1"><h2>Popular Categories</h2></div>
   <div> <a href="" class="btn theme-green-btn ">View All</a></div>
 </div>
 <div class="row theme-product">
