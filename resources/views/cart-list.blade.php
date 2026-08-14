@@ -1,7 +1,7 @@
 @extends('layouts.main')
 
 @push('title')
-    <title>Product Detail</title>
+    <title>Cart List</title>
 @endpush
 @section('content')
 <div class="container-fluid bg-light p-5">
@@ -129,7 +129,7 @@
     <div class="ms-auto"><h5>Rs. 4800</h5></div>
 </div>
 <div class="mt-4 ">
-<a href="" class="btn w-100 theme-orange-btn rounded-pill">Proceed To Checkout <i class="fa-solid fa-right-long"></i></a>
+<a href="{{ url('checkout/product') }}" class="btn w-100 theme-orange-btn rounded-pill">Proceed To Checkout <i class="fa-solid fa-right-long"></i></a>
 </div>
         </div>
     </div>
